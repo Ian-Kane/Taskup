@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+#TASKUP 
+TaskUp is a fullstack app made with React for the frontend and Flask for the backend. It's designed to allow easy tracking of tasks/goals
+with a minimal and easy-to-use UI.
 
 ## Project info
 
